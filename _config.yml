@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Felipe Martinez\'s Blog"
+title                    : "Fe Martinez\'s Blog"
 title_separator          : "-"
 name                     : "Felipe Martinez"
 description              : "Make software, not war"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Felipe Martinez"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Make software, not war"
+  location         : "São Paulo - BR"
+  email            : "femrtnz@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,10 +89,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "femrtnz"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "femrtnz"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "femrtnz"
   vine             :
   weibo            :
   xing             :
