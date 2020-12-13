@@ -3,128 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>femrtnz.github.io/about/</loc>
+    <loc>/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="femrtnz.github.io/pt-br/about/"
+                href="/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="femrtnz.github.io/about/"
+                href="/about/"
                 />
   </url>
   
   <url>
-    <loc>femrtnz.github.io/authors/</loc>
+    <loc>/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="femrtnz.github.io/pt-br/authors/"
+                href="/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="femrtnz.github.io/authors/"
+                href="/authors/"
                 />
   </url>
   
   <url>
-    <loc>femrtnz.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="femrtnz.github.io/pt-br/categories/"
+                href="/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="femrtnz.github.io/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>femrtnz.github.io/contact/</loc>
+    <loc>/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="femrtnz.github.io/pt-br/contact/"
+                href="/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="femrtnz.github.io/contact/"
+                href="/contact/"
                 />
   </url>
   
   <url>
-    <loc>femrtnz.github.io/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="femrtnz.github.io/pt-br/"
+                href="/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="femrtnz.github.io/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>femrtnz.github.io/blog/</loc>
+    <loc>/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="femrtnz.github.io/pt-br/blog/"
+                href="/pt-br/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="femrtnz.github.io/blog/"
+                href="/blog/"
                 />
   </url>
   
   <url>
-    <loc>femrtnz.github.io/projects/</loc>
+    <loc>/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="femrtnz.github.io/pt-br/projects/"
+                href="/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="femrtnz.github.io/projects/"
+                href="/projects/"
                 />
   </url>
   
   <url>
-    <loc>femrtnz.github.io/series/</loc>
+    <loc>/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="femrtnz.github.io/pt-br/series/"
+                href="/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="femrtnz.github.io/series/"
+                href="/series/"
                 />
   </url>
   
   <url>
-    <loc>femrtnz.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="femrtnz.github.io/pt-br/tags/"
+                href="/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="femrtnz.github.io/tags/"
+                href="/tags/"
                 />
   </url>
   

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOME</title>
-    <link>femrtnz.github.io/</link>
+    <link>/</link>
     <description>Recent content on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="femrtnz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>femrtnz.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>femrtnz.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>I&amp;rsquo;m a passionate Java Developer / Cloud Architect with over 10 years of system development experience.
 Hands-on, a quick learner and I&amp;rsquo;ve been involved in solving complex technical challenges within an agile team. Clean code and software craftsmanship enthusiast.
 My recent focus has been on microservice oriented architectures, cloud native applications, DevOps and CI/CD pipelines.
@@ -20,10 +20,10 @@ I&amp;rsquo;m also part of the Google Developer Group Cloud London (@gdgcloud) w
     
     <item>
       <title>Contact</title>
-      <link>femrtnz.github.io/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>femrtnz.github.io/contact/</guid>
+      <guid>/contact/</guid>
       <description>  ask me anything on Twitter
   reach out to me on Linkedin
   </description>
@@ -31,10 +31,10 @@ I&amp;rsquo;m also part of the Google Developer Group Cloud London (@gdgcloud) w
     
     <item>
       <title>Medium Posts</title>
-      <link>femrtnz.github.io/blog/</link>
+      <link>/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>femrtnz.github.io/blog/</guid>
+      <guid>/blog/</guid>
       <description>How to ssh into your GCE machine without a public IP
   How to deploy your Cloud Run service using GitHub Actions
   Artifact Registry: the new way to keep your App artifacts and Docker Images on GCP
@@ -46,10 +46,10 @@ I&amp;rsquo;m also part of the Google Developer Group Cloud London (@gdgcloud) w
     
     <item>
       <title>Projects</title>
-      <link>femrtnz.github.io/projects/</link>
+      <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>femrtnz.github.io/projects/</guid>
+      <guid>/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
